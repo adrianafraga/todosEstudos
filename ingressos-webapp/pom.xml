@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   
   <properties>
-  	<spring>5.2.5.RELEASE</spring>
+  	<spring>5.3.14</spring>
   	
   </properties>                                                                                                                                                                                                                                                                                                                                                                                                       
   <dependencies>
